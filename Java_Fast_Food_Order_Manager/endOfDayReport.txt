@@ -1,0 +1,13 @@
+
+Orders Incomplete:
+Burger Order Number: 3, Hamburgers: 1, Cheeseburgers: 1, Veggieburgers: 1, Sodas: 2, ToGo: false
+Burger Order Number: 4, Hamburgers: 4, Cheeseburgers: 4, Veggieburgers: 4, Sodas: 4, ToGo: false
+Burger Order Number: 5, Hamburgers: 5, Cheeseburgers: 5, Veggieburgers: 5, Sodas: 5, ToGo: true
+Burger Order Number: 6, Hamburgers: 7, Cheeseburgers: 8, Veggieburgers: 4, Sodas: 5, ToGo: false
+Burger Order Number: 7, Hamburgers: 1, Cheeseburgers: 2, Veggieburgers: 4, Sodas: 5, ToGo: true
+
+Incomplete Orders Totals:
+Hamburgers: 18
+Cheeseburgers: 20
+Veggieburgers: 18
+Sodas: 21
